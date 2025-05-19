@@ -43,8 +43,8 @@ Sou **Desenvolvedor de Software** com sólida experiência na criação de **apl
 
 ### 🌱 Atividades Voluntárias
 
-Fui **voluntário no CSBC**, o maior congresso acadêmico de computação do Brasil e America Latina, onde tive a oportunidade de colaborar com a organização do evento.
-Monitor de Matemática no Curso de Pré-Vestibular Social Motivação (UFF-Niteroi) 
+- Fui **voluntário no CSBC**, o maior congresso acadêmico de computação do Brasil e America Latina, onde tive a oportunidade de colaborar com a organização do evento.
+- Monitor de Matemática no Curso de Pré-Vestibular Social Motivação (UFF-Niteroi) 
 
 ---
 
