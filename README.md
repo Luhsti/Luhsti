@@ -2,7 +2,7 @@
 
 ## Desenvolvedor de Software | Engenharia de Produção | Pós-graduado em Gestão Corporativa
 
-![Avatar](https://drive.google.com/uc?export=view&id=11jTNA_Z1SzFpmWRtMI0gnULaP6RHrU9U)
+<img src="https://drive.google.com/uc?export=view&id=11jTNA_Z1SzFpmWRtMI0gnULaP6RHrU9U" alt="Avatar" width="150" style="border-radius: 50%;"/>
 
 ---
 
