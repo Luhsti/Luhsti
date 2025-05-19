@@ -54,12 +54,6 @@ Sou uma pessoa **organizada**, **focada**, **comprometida com resultados**, e se
 
 ---
 
-### 📈 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seunome&show_icons=true&count_private=true&hide_title=true&hide=prs)
-
----
-
 ### 🔗 Conecte-se comigo!
 
 - [LinkedIn](https://www.linkedin.com/in/lucas-gustavo-de-oliveira-cavalcanti-805549158/)
