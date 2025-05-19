@@ -2,7 +2,7 @@
 
 ## Desenvolvedor de Software | Engenharia de Produção | Pós-graduado em Gestão Corporativa
 
-![Avatar]([https://drive.google.com/file/d/11jTNA_Z1SzFpmWRtMI0gnULaP6RHrU9U/view?usp=sharing])
+![Avatar](https://drive.google.com/file/d/11jTNA_Z1SzFpmWRtMI0gnULaP6RHrU9U/view?usp=sharing)
 
 ---
 
@@ -62,5 +62,5 @@ Sou uma pessoa **organizada**, **focada**, **comprometida com resultados**, e se
 
 ### 🔗 Conecte-se comigo!
 
-- [LinkedIn]([https://www.linkedin.com/in/seunome/](https://www.linkedin.com/in/lucas-gustavo-de-oliveira-cavalcanti-805549158/))
+- [LinkedIn](https://www.linkedin.com/in/seunome/](https://www.linkedin.com/in/lucas-gustavo-de-oliveira-cavalcanti-805549158/)
 
