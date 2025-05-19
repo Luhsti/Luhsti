@@ -2,10 +2,6 @@
 
 ## Desenvolvedor de Software | Engenharia de Produção | Pós-graduado em Gestão Corporativa
 
-<img src="https://drive.google.com/uc?export=view&id=11jTNA_Z1SzFpmWRtMI0gnULaP6RHrU9U" alt="Avatar" width="150" style="border-radius: 50%;"/>
-
----
-
 ### 🚀 Sobre mim
 
 Sou **Desenvolvedor de Software** com sólida experiência na criação de **aplicações web** utilizando **Angular**. Além disso, possuo **formação em Engenharia de Produção** e pós-graduação em **Gestão Corporativa**. Sou apaixonado por **tecnologia** e **inovação**, sempre buscando aprimorar processos e criar soluções inteligentes que impactem positivamente os negócios. 💡
